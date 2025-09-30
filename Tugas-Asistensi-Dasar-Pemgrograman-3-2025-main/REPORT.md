@@ -1,0 +1,1 @@
+Pada kode awal terdapat kesalahan penggunaan variabel x di fungsi faktorial, seharusnya menggunakan parameter n. Selain itu, saat membaca input menu digunakan %lf padahal variabel menu bertipe int, sehingga seharusnya memakai %d.
